@@ -3,8 +3,6 @@
 
 **Group Members:** Adilya Korkmaz, Vladyslav Stupak, Daniil Zykov
 
-[![Python](https://img.shields.io/badge/Python-3.11.3-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This repository contains Natural Language Processing analysis of J.R.R. Tolkien's Lord of the Rings trilogy, exploring character interactions, narrative patterns, linguistic features, and textual dynamics across all three books.
 
