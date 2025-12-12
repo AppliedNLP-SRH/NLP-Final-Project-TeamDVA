@@ -1,7 +1,8 @@
-# Project X 
-Group members: Y, Z
+# Team DVA Final Project
+# J. R. R. Tolkien - Lord of the Rings trilogy
+Group members: Adilya Korkmaz, Vladyslav Stupak, Daniil Zykov
 
-This repository contains the materials for **Project X**.  
+This repository contains the materials for **LOTR NLP Project**.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder
 - Data: when you access correct data, place it in [`data/`](./data/) folder
