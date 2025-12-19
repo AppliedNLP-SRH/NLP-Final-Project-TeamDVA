@@ -8,6 +8,11 @@ This repository contains Natural Language Processing analysis of J.R.R. Tolkien'
 
 ---
 
+# Medium Article
+**Link:** https://medium.com/@daniil.zykov2004/lords-rings-natural-language-processing-48fe3286a592?postPublishedType=repub
+
+---
+
 ## Table of Contents
 
 - [Project Overview](#-project-overview)
